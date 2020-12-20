@@ -3,11 +3,15 @@
 ## PROJECT DESCRIPTION:
 Name of Project: TRI-Nance
 
-Date initiated: 19 December 2020
+Date initiated: 20 December 2020
 
 Date completed: Null
 
 Contributor(s): Jordan Bu Guan Ting (S10204595G)
+
+Software used: Visual Studio Code
+
+Languages used: HTML, CSS, JAVASCRIPT
 
 Context:
 
@@ -24,18 +28,66 @@ Here is a list of main and extra features that I would like to implement into my
 - Want/Need list - A list to help users list out their wants and needs to set their priorities
 - Mini experiment - A mini game to test users whether they are financial smart
 
-## TIMELINE:
-2020:
+## **TIMELINE**:
+**2020:**
 
-Dec 19
+Dec 20
 - Read assignment brief
-- Created README
+- Created README file
 - Wrote down a brief project description
 - Started a timeline
 - Created "index.html" file
+- Created "style.css" file
+- Create "Normalize.css" file
+- Created "script.js" file
+- Started to write on the design process
+- Started on wireframe for index.html page (Adobe.xd)
+- Started writing on index.html and style.css
+- Completed around 95% on index.html, left 5% to touch up when project is almost done
+- Copied the Normalize.css from GITHUB to my own Normalize.css file
+- First commit onto GITHUB
 
 
+## Design thinking:
 
+### **Color scheme**:
+
+After doing some color palette research from "https://uxdesign.cc/dark-mode-ui-design-the-definitive-guide-part-1-color-53dcfaea5129", I have decided to incorporate a variations of grey and green. Grey being that it is more comforting to the eyes and that it helps reduce battery usage for users. Green is chosen as my secondary color as it is affiliated with money. 
+
+All the colors that were used will be listed down below:
+- #222222
+- #FFFFFF
+- #BB86FC
+- #03DCA5
+
+
+### **Home Page (index.html):**
+
+For my home page, I want to give an introduction to what this web app is about and list down all the functions so that the users will know what this web app is about. To do so, I will have to use flex boxes as well as related images to explain the features. It will be a single scrolling page. There will also be a navigation bar on top to allow existing users to navigate to their account quickly without reading the same thing over again. The login/signup function will be at the navigation bar itself.
+
+## Testing:
+
+
+## Sources & Credits:
+Images: 
+
+https://www.freelogodesign.org/
+
+https://www.stickpng.com/
+
+Materials referred from: 
+
+https://www.w3schools.com/
+
+https://css-tricks.com/
+
+https://ux.stackexchange.com/
+
+https://uxdesign.cc/
+
+Fonts:
+
+https://fonts.google.com/specimen/Karla?sidebar.open=true&selection.family=Karla
 
 
 
