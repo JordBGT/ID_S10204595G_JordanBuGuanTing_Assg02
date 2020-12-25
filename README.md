@@ -47,6 +47,11 @@ Dec 20
 - Copied the Normalize.css from GITHUB to my own Normalize.css file
 - First commit onto GITHUB
 
+Dec 25
+- Submitted first checkpoint onto student network drive for checkpoint submission
+- Did not touch anything since Dec 20 due to other work commitments
+- Made an update to timeline in README file
+
 
 ## Design thinking:
 
