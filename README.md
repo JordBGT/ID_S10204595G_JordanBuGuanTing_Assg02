@@ -48,10 +48,13 @@ Dec 20
 - First commit onto GITHUB
 
 Dec 25
-- Submitted first checkpoint onto student network drive for checkpoint submission
-- Did not touch anything since Dec 20 due to other work commitments
 - Made an update to timeline in README file
 
+Dec 27
+- Did not make any major progress since Dec 20 due to other work commitments
+- Made an update to timeline in README file
+- Second commit onto GITHUB for checkpoint submission
+- Uploaded current file to network drive for checkpoint submisison
 
 ## Design thinking:
 
