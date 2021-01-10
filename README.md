@@ -88,7 +88,6 @@ Jan 9:
 - Made an update to timeline in README file
 - Commited and Pushed to GITHUB
 
-<<<<<<< HEAD
 Jan 10:
 - Decided to do API again
 - Created news.js and news.html
@@ -102,8 +101,6 @@ Jan 10:
 - Committed one last time
 - Upload work to ICT Space and Pushed to GITHUB
 
-=======
->>>>>>> 67b608a62167c85590dbe011480d10deddf44d4f
 ## Design thinking:
 
 ### **Color scheme**:
@@ -138,15 +135,12 @@ For my FinTest page, I went to refer to youtube videos on how to make a simple q
 
 ## Testing:
 Navigation bar was working, Buttons were working as well.
-<<<<<<< HEAD
 
 For Fintest page, the quiz was working but it would cover the wordings behind.
 
 API was working, but did not get to style it as I did not know how to.
-=======
 
 For Fintest page, the quiz was working but it would cover the wordings behind.
->>>>>>> 67b608a62167c85590dbe011480d10deddf44d4f
 
 ## Sources & Credits:
 Images: 
@@ -185,12 +179,9 @@ Source Code:
 
 https://www.codingnepalweb.com/2020/10/create-quiz-app-with-timer-using-javascript.html
 
-<<<<<<< HEAD
 API Used:
 
 https://rapidapi.com/apidojo/api/yahoo-finance1/endpoints
-=======
->>>>>>> 67b608a62167c85590dbe011480d10deddf44d4f
 
 GITHUB Link:
 
