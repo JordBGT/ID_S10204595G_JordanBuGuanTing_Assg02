@@ -88,6 +88,7 @@ Jan 9:
 - Made an update to timeline in README file
 - Commited and Pushed to GITHUB
 
+<<<<<<< HEAD
 Jan 10:
 - Decided to do API again
 - Created news.js and news.html
@@ -101,6 +102,8 @@ Jan 10:
 - Committed one last time
 - Upload work to ICT Space and Pushed to GITHUB
 
+=======
+>>>>>>> 67b608a62167c85590dbe011480d10deddf44d4f
 ## Design thinking:
 
 ### **Color scheme**:
@@ -124,12 +127,26 @@ For my FinTest page, I went to refer to youtube videos on how to make a simple q
 ### **News Page** (news.html):**
 For my news page, I decided to use an API to get daily news on Singapore. It will be displayed with a headline and then the publisher and the link. The API I used was from Yahoo Finance API.
 
+### **About Page (about.html):**
+For my about page, I referenced from Google on how they did it. Google's about page mainly consists of large scale images as well as descriptions either beside the images or within the images. Thus I decided to do the same. I decided to make 4 sections, one to give an background info of what this website does, and the remaining 3 sections on the different functions which are "FinTest", "Tips" and "Account". I tried to find stock images related to the functions itself.
+
+### **Tips Page (tips.html):**
+Likewise for the tips page, it is similar to about page. For my tips page, I referenced three websites which I found useful for people to refer to for finance advice. The images I provide were just a screenshot of their websites. I also included a introductory paragaph on the top of the page to give the audience an idea what this tips page is about.
+
+### **FinTest Page (fintest.html):**
+For my FinTest page, I went to refer to youtube videos on how to make a simple quiz with Javascript. The quiz will determine how many answers you got correct and there is a timer included. The questions were referred from :https://www.surveymonkey.com/r/YN6H75P where they supplied some questions related to finances.
+
 ## Testing:
 Navigation bar was working, Buttons were working as well.
+<<<<<<< HEAD
 
 For Fintest page, the quiz was working but it would cover the wordings behind.
 
 API was working, but did not get to style it as I did not know how to.
+=======
+
+For Fintest page, the quiz was working but it would cover the wordings behind.
+>>>>>>> 67b608a62167c85590dbe011480d10deddf44d4f
 
 ## Sources & Credits:
 Images: 
@@ -168,9 +185,12 @@ Source Code:
 
 https://www.codingnepalweb.com/2020/10/create-quiz-app-with-timer-using-javascript.html
 
+<<<<<<< HEAD
 API Used:
 
 https://rapidapi.com/apidojo/api/yahoo-finance1/endpoints
+=======
+>>>>>>> 67b608a62167c85590dbe011480d10deddf44d4f
 
 GITHUB Link:
 
